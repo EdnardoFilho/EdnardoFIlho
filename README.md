@@ -1,9 +1,6 @@
  <h1 align="center">Hi 👋, I'm Ednardo Filho (Ed)</h1>
  <h3 align="center">Looking for my first job with Flutter</h3> 
 
-
-## <p align="center"> <a href="https://twitter.com/ednardofilh0" target="blank"><img src="https://img.shields.io/twitter/follow/ednardofilh0?style=social" alt="Ednardo Filho" /></a> </p>
-
 - #### **🌱 I’m currently learning: [Dart](https://dart.dev), [Flutter](https://www.flutter.dev/), [Git](https://git-scm.com), [Java](https://www.java.com)**
 
 - #### **📫 How to reach me: ednardofilho49@gmail.com**
@@ -11,11 +8,11 @@
 - #### **📄 Know about my experiences: [Dart](https://dart.dev), [Flutter](https://www.flutter.dev/)**
 
 ## <h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/ednardofilh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ednardofilh0" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ednardofilho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_ednardofilho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-</p>
+ <div> <p align="center"> <a href="mailto:ednardofilho49@gmail.com" target="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="gmail"></a>
+ <a href="https://www.linkedin.com/in/ednardofilho/" target="linkedin"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="linkedin"></a>
+  <a href = "https://instagram.com/_ednardofilho"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="insta"></a>   
+ <a href="https://twitter.com/ednardofilh0" target="twitter"><img src="https://img.shields.io/badge/-twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="twitter"></a> 
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" alt="flutter" width="30" height="36"/> </a> 
