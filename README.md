@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Ednardo Filho (Ed)</h1>
  <h3 align="center">Looking for my first job with Flutter</h3> 
 
-- #### **🌱 I’m currently learning: [Dart](https://dart.dev), [Flutter](https://www.flutter.dev/), [Git](https://git-scm.com), [Java](https://www.java.com)**
+- #### **🌱 I’m currently learning: [Dart](https://dart.dev), [Flutter](https://www.flutter.dev/), [Git](https://git-scm.com)**
 
 - #### **📫 How to reach me: ednardofilho49@gmail.com**
 
