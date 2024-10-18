@@ -29,4 +29,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=EdnardoFilho&show_icons=true&theme=chartreuse-dark" </p>
 
-<p><img align="left" width="100" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdnardoFilho&langs_count=8show_icons=true&theme=chartreuse-dark" alt="ednardofilho" /></p>
+<p><img align="left" width="300" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdnardoFilho&langs_count=8show_icons=true&theme=chartreuse-dark" alt="ednardofilho" /></p>
