@@ -24,9 +24,9 @@
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  
   ## <h3 align="center">Statistic charts:</h3>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=EdnardoFilho&show_icons=true&theme=chartreuse-dark" alt="ednardofilho" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdnardoFilho&langs_count=8show_icons=true&theme=chartreuse-dark" alt="ednardofilho" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=EdnardoFilho&show_icons=true&theme=chartreuse-dark" </p>
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdnardoFilho&show_icons=true&theme=chartreuse-dark" alt="ednardofilho" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdnardoFilho&langs_count=8show_icons=true&theme=chartreuse-dark" alt="ednardofilho" /></p>
